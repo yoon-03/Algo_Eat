@@ -1,6 +1,6 @@
 # AlgoEat
 
-AI 기반 음식 추천 서비스
+AI 기반 개인 맞춤형 메뉴 추천 및 식단 관리 서비스
 
 ## Tech Stack
 
@@ -9,6 +9,10 @@ AI 기반 음식 추천 서비스
 - AI Server : Flask
 - Database : MySQL
 - Cloud : AWS EC2
+
+## 핵심 기능
+
+
 
 ## Project Structure
 
