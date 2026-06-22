@@ -16,7 +16,7 @@ AI 기반 개인 맞춤형 메뉴 추천 및 식단 관리 서비스
 
 ## Project Structure
 
-![시스템 구조도](algo-eat/Image/시스템 구조도.png)
+![시스템 구조도](algo-eat/Image/시스템%20구조도.png)
 
 ## 로그인 화면
 
