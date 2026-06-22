@@ -12,7 +12,7 @@ AI 기반 음식 추천 서비스
 
 ## Project Structure
 
-![시스템 구조도](algo-eat/Image/시스템 구조.png)
+![시스템 구조도](algo-eat/Image/시스템 구조도.png)
 
 ## 로그인 화면
 
