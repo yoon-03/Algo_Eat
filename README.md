@@ -22,8 +22,18 @@ ai-server/  Flask AI Recommendation Server
 
 ## 메뉴 추천 화면
 
-![추천](algo-eat/Image/recommend.png)
+![추천](algo-eat/Image/메인화면.png)
 
 ## 지도 화면
 
-![지도](algo-eat/Image/map.png)
+![지도](algo-eat/Image/맵.png)
+
+
+## 챗봇 화면
+
+![챗봇](algo-eat/Image/챗봇.png)
+
+## 유저 화면
+
+![유저](algo-eat/Image/유저.png)
+
