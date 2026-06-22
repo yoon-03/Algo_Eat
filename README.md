@@ -22,25 +22,26 @@ AI 기반 개인 맞춤형 메뉴 추천 및 식단 관리 서비스
 ## 🛠 Tech Stack
 
 ### Frontend
-- React
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
 - Tailwind CSS
 - Axios
 - React Router
 
 ### Backend
-- Spring Boot
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
 - Spring Data JPA
 - REST API
 
 ### AI Server
-- Flask
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 - Gemini API
 
 ### Database
-- MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
 
 ### Infra
-- AWS EC2
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 
 ---
 
