@@ -12,9 +12,7 @@ AI 기반 음식 추천 서비스
 
 ## Project Structure
 
-frontend/   React UI
-backend/    Spring Boot API
-ai-server/  Flask AI Recommendation Server
+![시스템 구조도](algo-eat/Image/시스템 구조.png)
 
 ## 로그인 화면
 
