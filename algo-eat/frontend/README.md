@@ -1,6 +1,6 @@
 # AlgoEat Frontend
 
-AlgoEat의 사용자 인터페이스를 담당하는 React 기반 프론트엔드 프로젝트입니다.
+AlgoEat의 사용자 인터페이스를 담당하는 React 기반 프론트엔드입니다.
 
 ## 주요 기능
 
