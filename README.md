@@ -20,9 +20,9 @@ ai-server/  Flask AI Recommendation Server
 
 ![로그인](algo-eat/Image/로그인.png)
 
-## 메뉴 추천 화면
+## 메인 화면(메뉴 추천 화면)
 
-![추천](algo-eat/Image/메인화면.png)
+![메인 화면](algo-eat/Image/메인화면.png)
 
 ## 지도 화면
 
